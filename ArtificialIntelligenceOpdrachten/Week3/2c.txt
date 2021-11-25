@@ -1,0 +1,13 @@
+als 5 een J was dan kunnen 67 geen J zijn, en geen aas (want ze moeten aan een koning) en geen koning want koning moet aan queen
+Dus 67 moet een queen zijn, maar dat kan niet wat die moeten aan een koning.
+
+als 5 een q was dan kunnen 3467 geen q of aas zijn. dus dat moeten dan J of K zijn.
+012 moeten dan de andere queen en aas zijn maar 12 kan geen aas want die mogen niet naast elkaar
+12 mogen ook geen Q en A zijn want Q mag niet aan aas grenzen.
+
+als 5 een aas was heb je iets vergelijkbaars met hierboven.
+daarom mmoet 5 een koning zijn.
+
+als 5 een koning is kunnen 3467 geen koning zijn. 67 kan geen Q zijn want die meoten ook aan een J
+dus 67 moet of een A of een J zijn 
+
